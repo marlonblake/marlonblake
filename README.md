@@ -4,7 +4,7 @@ I'm Marlon, a Computer Science student who enjoys building practical tech projec
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,php,mysql,git,cpp,c,py,blender,ps)](https://skillicons.dev)
 
 ### 🌐 Socials
-[![Gmail](https://skillicons.dev/icons?i=gmail)](stevemarlon64@gmail.com)
+[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:stevemarlon64@gmail.com)
 [![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/steveblake2004/)
 [![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/marlonblake_)
 
